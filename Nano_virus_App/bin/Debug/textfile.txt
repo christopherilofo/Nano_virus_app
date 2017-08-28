@@ -1,0 +1,1843 @@
+Cycle No. 1No of tumor, Red , White cell : 4,72,24
+Cycle No. 2No of tumor, Red , White cell : 4,72,24
+Cycle No. 3No of tumor, Red , White cell : 4,72,24
+Cycle No. 4No of tumor, Red , White cell : 4,72,24
+Cycle No. 5No of tumor, Red , White cell : 8,68,24
+Cycle No. 6No of tumor, Red , White cell : 8,68,24
+Cycle No. 7No of tumor, Red , White cell : 8,68,23
+Cycle No. 8No of tumor, Red , White cell : 8,68,23
+Cycle No. 9No of tumor, Red , White cell : 8,68,23
+Cycle No. 10No of tumor, Red , White cell : 16,60,23
+Cycle No. 11No of tumor, Red , White cell : 16,60,23
+Cycle No. 12No of tumor, Red , White cell : 16,59,23
+Cycle No. 13No of tumor, Red , White cell : 16,59,23
+Cycle No. 14No of tumor, Red , White cell : 16,59,23
+Cycle No. 15No of tumor, Red , White cell : 32,43,23
+Cycle No. 16No of tumor, Red , White cell : 31,43,23
+Cycle No. 17No of tumor, Red , White cell : 31,43,23
+Cycle No. 18No of tumor, Red , White cell : 31,43,23
+Cycle No. 19No of tumor, Red , White cell : 30,43,23
+Cycle No. 20No of tumor, Red , White cell : 61,13,23
+Cycle No. 21No of tumor, Red , White cell : 61,13,23
+Cycle No. 22No of tumor, Red , White cell : 60,13,23
+Cycle No. 23No of tumor, Red , White cell : 59,13,23
+Cycle No. 24No of tumor, Red , White cell : 59,13,23
+Cycle No. 25No of tumor, Red , White cell : 74,0,23
+Cycle No. 26No of tumor, Red , White cell : 73,0,23
+Cycle No. 27No of tumor, Red , White cell : 73,0,23
+Cycle No. 28No of tumor, Red , White cell : 72,0,23
+Cycle No. 29No of tumor, Red , White cell : 71,0,23
+Cycle No. 30No of tumor, Red , White cell : 95,0,2
+Cycle No. 31No of tumor, Red , White cell : 94,0,2
+Cycle No. 32No of tumor, Red , White cell : 93,0,2
+Cycle No. 33No of tumor, Red , White cell : 92,0,2
+Cycle No. 34No of tumor, Red , White cell : 92,0,2
+Cycle No. 35No of tumor, Red , White cell : 97,0,0
+Cycle No. 1No of tumor, Red , White cell : 5,72,23
+Cycle No. 2No of tumor, Red , White cell : 5,72,23
+Cycle No. 3No of tumor, Red , White cell : 5,72,23
+Cycle No. 4No of tumor, Red , White cell : 5,72,23
+Cycle No. 5No of tumor, Red , White cell : 10,67,23
+Cycle No. 6No of tumor, Red , White cell : 10,67,23
+Cycle No. 7No of tumor, Red , White cell : 10,67,23
+Cycle No. 8No of tumor, Red , White cell : 10,67,23
+Cycle No. 9No of tumor, Red , White cell : 10,67,23
+Cycle No. 10No of tumor, Red , White cell : 20,57,23
+Cycle No. 11No of tumor, Red , White cell : 19,57,23
+Cycle No. 12No of tumor, Red , White cell : 19,56,23
+Cycle No. 13No of tumor, Red , White cell : 19,56,23
+Cycle No. 14No of tumor, Red , White cell : 19,56,23
+Cycle No. 15No of tumor, Red , White cell : 39,37,23
+Cycle No. 16No of tumor, Red , White cell : 38,37,23
+Cycle No. 17No of tumor, Red , White cell : 38,37,23
+Cycle No. 18No of tumor, Red , White cell : 38,37,23
+Cycle No. 19No of tumor, Red , White cell : 38,37,23
+Cycle No. 20No of tumor, Red , White cell : 76,0,23
+Cycle No. 21No of tumor, Red , White cell : 76,0,22
+Cycle No. 22No of tumor, Red , White cell : 76,0,22
+Cycle No. 23No of tumor, Red , White cell : 76,0,22
+Cycle No. 24No of tumor, Red , White cell : 76,0,21
+Cycle No. 25No of tumor, Red , White cell : 95,0,2
+Cycle No. 26No of tumor, Red , White cell : 94,0,2
+Cycle No. 27No of tumor, Red , White cell : 93,0,2
+Cycle No. 28No of tumor, Red , White cell : 92,0,2
+Cycle No. 29No of tumor, Red , White cell : 91,0,2
+Cycle No. 30No of tumor, Red , White cell : 96,0,0
+Cycle No. 1No of tumor, Red , White cell : 6,75,19,0
+Cycle No. 2No of tumor, Red , White cell : 6,75,19,0
+Cycle No. 3No of tumor, Red , White cell : 6,75,19,0
+Cycle No. 4No of tumor, Red , White cell : 6,75,19,0
+Cycle No. 5No of tumor, Red , White cell : 12,69,19,0
+Cycle No. 6No of tumor, Red , White cell : 12,69,19,0
+Cycle No. 7No of tumor, Red , White cell : 12,69,19,0
+Cycle No. 8No of tumor, Red , White cell : 12,68,19,1
+Cycle No. 9No of tumor, Red , White cell : 12,68,19,1
+Cycle No. 10No of tumor, Red , White cell : 24,56,19,1
+Cycle No. 11No of tumor, Red , White cell : 24,56,19,1
+Cycle No. 12No of tumor, Red , White cell : 24,56,19,1
+Cycle No. 13No of tumor, Red , White cell : 24,55,19,2
+Cycle No. 14No of tumor, Red , White cell : 24,55,19,2
+Cycle No. 15No of tumor, Red , White cell : 48,31,19,2
+Cycle No. 16No of tumor, Red , White cell : 48,30,19,3
+Cycle No. 17No of tumor, Red , White cell : 47,30,19,4
+Cycle No. 18No of tumor, Red , White cell : 47,30,19,4
+Cycle No. 19No of tumor, Red , White cell : 47,29,19,5
+Cycle No. 20No of tumor, Red , White cell : 77,0,19,4
+Cycle No. 21No of tumor, Red , White cell : 76,0,19,5
+Cycle No. 22No of tumor, Red , White cell : 75,0,19,6
+Cycle No. 23No of tumor, Red , White cell : 74,0,19,7
+Cycle No. 24No of tumor, Red , White cell : 73,0,19,8
+Cycle No. 25No of tumor, Red , White cell : 93,0,3,4
+Cycle No. 26No of tumor, Red , White cell : 92,0,3,5
+Cycle No. 27No of tumor, Red , White cell : 91,0,3,6
+Cycle No. 28No of tumor, Red , White cell : 90,0,3,7
+Cycle No. 29No of tumor, Red , White cell : 89,0,3,8
+Cycle No. 30No of tumor, Red , White cell : 96,0,0,4
+Cycle No. 1No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 2No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 3No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 4No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 5No of tumor, Red , White cell : 6,65,29,0
+Cycle No. 6No of tumor, Red , White cell : 6,65,29,0
+Cycle No. 7No of tumor, Red , White cell : 6,65,29,0
+Cycle No. 8No of tumor, Red , White cell : 6,65,29,0
+Cycle No. 9No of tumor, Red , White cell : 6,65,29,0
+Cycle No. 10No of tumor, Red , White cell : 12,59,29,0
+Cycle No. 11No of tumor, Red , White cell : 12,59,29,0
+Cycle No. 12No of tumor, Red , White cell : 12,59,29,0
+Cycle No. 13No of tumor, Red , White cell : 12,59,29,0
+Cycle No. 14No of tumor, Red , White cell : 12,59,29,0
+Cycle No. 15No of tumor, Red , White cell : 24,47,29,0
+Cycle No. 16No of tumor, Red , White cell : 24,47,28,1
+Cycle No. 17No of tumor, Red , White cell : 24,47,28,1
+Cycle No. 18No of tumor, Red , White cell : 24,47,28,1
+Cycle No. 19No of tumor, Red , White cell : 24,47,28,1
+Cycle No. 20No of tumor, Red , White cell : 48,23,28,1
+Cycle No. 21No of tumor, Red , White cell : 48,23,28,1
+Cycle No. 22No of tumor, Red , White cell : 48,23,28,1
+Cycle No. 23No of tumor, Red , White cell : 48,23,27,2
+Cycle No. 24No of tumor, Red , White cell : 48,23,27,2
+Cycle No. 25No of tumor, Red , White cell : 71,0,27,2
+Cycle No. 26No of tumor, Red , White cell : 71,0,27,2
+Cycle No. 27No of tumor, Red , White cell : 70,0,27,3
+Cycle No. 28No of tumor, Red , White cell : 69,0,27,4
+Cycle No. 29No of tumor, Red , White cell : 69,0,26,5
+Cycle No. 30No of tumor, Red , White cell : 95,0,2,3
+Cycle No. 31No of tumor, Red , White cell : 95,0,2,3
+Cycle No. 32No of tumor, Red , White cell : 94,0,2,4
+Cycle No. 33No of tumor, Red , White cell : 94,0,2,4
+Cycle No. 34No of tumor, Red , White cell : 93,0,2,5
+Cycle No. 35No of tumor, Red , White cell : 97,0,0,3
+Cycle No. 1No of tumor, Red , White cell : 3,61,36,0
+Cycle No. 2No of tumor, Red , White cell : 3,61,36,0
+Cycle No. 3No of tumor, Red , White cell : 3,61,36,0
+Cycle No. 4No of tumor, Red , White cell : 3,61,36,0
+Cycle No. 5No of tumor, Red , White cell : 6,58,36,0
+Cycle No. 6No of tumor, Red , White cell : 6,58,36,0
+Cycle No. 7No of tumor, Red , White cell : 6,58,36,0
+Cycle No. 8No of tumor, Red , White cell : 6,58,35,1
+Cycle No. 9No of tumor, Red , White cell : 6,58,35,1
+Cycle No. 10No of tumor, Red , White cell : 12,52,35,1
+Cycle No. 11No of tumor, Red , White cell : 12,51,35,2
+Cycle No. 12No of tumor, Red , White cell : 12,51,35,2
+Cycle No. 13No of tumor, Red , White cell : 12,51,35,2
+Cycle No. 14No of tumor, Red , White cell : 12,51,35,2
+Cycle No. 15No of tumor, Red , White cell : 24,39,35,2
+Cycle No. 16No of tumor, Red , White cell : 24,39,35,2
+Cycle No. 17No of tumor, Red , White cell : 24,39,35,2
+Cycle No. 18No of tumor, Red , White cell : 24,39,35,2
+Cycle No. 19No of tumor, Red , White cell : 24,39,35,2
+Cycle No. 20No of tumor, Red , White cell : 48,15,35,2
+Cycle No. 21No of tumor, Red , White cell : 47,15,35,3
+Cycle No. 22No of tumor, Red , White cell : 47,15,34,4
+Cycle No. 23No of tumor, Red , White cell : 47,15,34,4
+Cycle No. 24No of tumor, Red , White cell : 46,15,34,5
+Cycle No. 25No of tumor, Red , White cell : 63,0,34,3
+Cycle No. 26No of tumor, Red , White cell : 63,0,33,4
+Cycle No. 27No of tumor, Red , White cell : 63,0,32,5
+Cycle No. 28No of tumor, Red , White cell : 63,0,32,5
+Cycle No. 29No of tumor, Red , White cell : 63,0,32,5
+Cycle No. 30No of tumor, Red , White cell : 89,0,5,6
+Cycle No. 31No of tumor, Red , White cell : 88,0,5,7
+Cycle No. 32No of tumor, Red , White cell : 87,0,5,8
+Cycle No. 33No of tumor, Red , White cell : 87,0,5,8
+Cycle No. 34No of tumor, Red , White cell : 86,0,5,9
+Cycle No. 35No of tumor, Red , White cell : 94,0,0,6
+Cycle No. 1No of tumor, Red , White cell : 9,66,25,0
+Cycle No. 2No of tumor, Red , White cell : 9,66,25,0
+Cycle No. 3No of tumor, Red , White cell : 9,66,25,0
+Cycle No. 4No of tumor, Red , White cell : 9,66,25,0
+Cycle No. 5No of tumor, Red , White cell : 18,57,25,0
+Cycle No. 6No of tumor, Red , White cell : 18,56,25,1
+Cycle No. 7No of tumor, Red , White cell : 18,55,25,2
+Cycle No. 1No of tumor, Red , White cell : 7,73,20,0
+Cycle No. 2No of tumor, Red , White cell : 7,73,20,0
+Cycle No. 3No of tumor, Red , White cell : 7,73,20,0
+Cycle No. 4No of tumor, Red , White cell : 7,73,20,0
+Cycle No. 5No of tumor, Red , White cell : 7,73,20,0
+Cycle No. 1No of tumor, Red , White cell : 3,70,27,0
+Cycle No. 2No of tumor, Red , White cell : 3,70,27,0
+Cycle No. 3No of tumor, Red , White cell : 3,70,27,0
+Cycle No. 4No of tumor, Red , White cell : 3,70,27,0
+Cycle No. 5No of tumor, Red , White cell : 3,70,27,0
+Cycle No. 6No of tumor, Red , White cell : 3,70,27,0
+Cycle No. 7No of tumor, Red , White cell : 3,70,27,0
+Cycle No. 8No of tumor, Red , White cell : 3,70,27,0
+Cycle No. 9No of tumor, Red , White cell : 3,70,27,0
+Cycle No. 10No of tumor, Red , White cell : 3,70,27,0
+Cycle No. 11No of tumor, Red , White cell : 3,70,27,0
+Cycle No. 12No of tumor, Red , White cell : 3,70,27,0
+Cycle No. 13No of tumor, Red , White cell : 3,70,27,0
+Cycle No. 14No of tumor, Red , White cell : 3,70,27,0
+Cycle No. 15No of tumor, Red , White cell : 3,70,27,0
+Cycle No. 16No of tumor, Red , White cell : 3,70,27,0
+Cycle No. 17No of tumor, Red , White cell : 3,70,27,0
+Cycle No. 18No of tumor, Red , White cell : 3,70,27,0
+Cycle No. 19No of tumor, Red , White cell : 3,69,27,1
+Cycle No. 20No of tumor, Red , White cell : 3,69,27,1
+Cycle No. 21No of tumor, Red , White cell : 3,69,27,1
+Cycle No. 22No of tumor, Red , White cell : 3,69,27,1
+Cycle No. 23No of tumor, Red , White cell : 3,69,27,1
+Cycle No. 24No of tumor, Red , White cell : 3,69,27,1
+Cycle No. 25No of tumor, Red , White cell : 3,69,27,1
+Cycle No. 26No of tumor, Red , White cell : 3,69,27,1
+Cycle No. 27No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 28No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 29No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 30No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 31No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 32No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 33No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 34No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 35No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 36No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 37No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 38No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 39No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 40No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 41No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 42No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 43No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 44No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 45No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 46No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 47No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 48No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 49No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 50No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 51No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 52No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 53No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 54No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 55No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 56No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 57No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 58No of tumor, Red , White cell : 3,68,27,2
+Cycle No. 59No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 60No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 61No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 62No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 63No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 64No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 65No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 66No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 67No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 68No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 69No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 70No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 71No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 72No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 73No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 74No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 75No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 76No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 77No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 78No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 79No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 80No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 81No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 82No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 83No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 84No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 85No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 86No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 87No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 88No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 89No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 90No of tumor, Red , White cell : 3,67,27,3
+Cycle No. 91No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 92No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 93No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 94No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 95No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 96No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 97No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 98No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 99No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 100No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 101No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 102No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 103No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 104No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 105No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 106No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 107No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 108No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 109No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 110No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 111No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 112No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 113No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 114No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 115No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 116No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 117No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 118No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 119No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 120No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 121No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 122No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 123No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 124No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 125No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 126No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 127No of tumor, Red , White cell : 3,66,27,4
+Cycle No. 128No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 129No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 130No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 131No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 132No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 133No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 134No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 135No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 136No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 137No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 138No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 139No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 140No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 141No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 142No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 143No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 144No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 145No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 146No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 147No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 148No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 149No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 150No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 151No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 152No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 153No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 154No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 155No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 156No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 157No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 158No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 159No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 160No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 161No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 162No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 163No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 164No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 165No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 166No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 167No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 168No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 169No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 170No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 171No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 172No of tumor, Red , White cell : 3,66,26,5
+Cycle No. 173No of tumor, Red , White cell : 3,65,26,6
+Cycle No. 174No of tumor, Red , White cell : 3,65,26,6
+Cycle No. 175No of tumor, Red , White cell : 3,65,26,6
+Cycle No. 176No of tumor, Red , White cell : 3,65,26,6
+Cycle No. 177No of tumor, Red , White cell : 3,65,26,6
+Cycle No. 178No of tumor, Red , White cell : 3,65,26,6
+Cycle No. 179No of tumor, Red , White cell : 3,65,26,6
+Cycle No. 180No of tumor, Red , White cell : 3,65,26,6
+Cycle No. 181No of tumor, Red , White cell : 3,65,26,6
+Cycle No. 182No of tumor, Red , White cell : 3,65,26,6
+Cycle No. 183No of tumor, Red , White cell : 3,65,26,6
+Cycle No. 184No of tumor, Red , White cell : 3,65,26,6
+Cycle No. 185No of tumor, Red , White cell : 3,65,26,6
+Cycle No. 186No of tumor, Red , White cell : 3,65,26,6
+Cycle No. 187No of tumor, Red , White cell : 3,65,26,6
+Cycle No. 188No of tumor, Red , White cell : 3,65,26,6
+Cycle No. 189No of tumor, Red , White cell : 3,65,26,6
+Cycle No. 190No of tumor, Red , White cell : 3,65,26,6
+Cycle No. 191No of tumor, Red , White cell : 3,65,26,6
+Cycle No. 192No of tumor, Red , White cell : 3,65,26,6
+Cycle No. 193No of tumor, Red , White cell : 3,65,25,7
+Cycle No. 194No of tumor, Red , White cell : 3,64,25,8
+Cycle No. 195No of tumor, Red , White cell : 3,64,25,8
+Cycle No. 196No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 197No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 198No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 199No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 200No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 201No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 202No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 203No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 204No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 205No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 206No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 207No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 208No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 209No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 210No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 211No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 212No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 213No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 214No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 215No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 216No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 217No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 218No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 219No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 220No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 221No of tumor, Red , White cell : 3,63,25,9
+Cycle No. 1No of tumor, Red , White cell : 6,64,30,0
+Cycle No. 2No of tumor, Red , White cell : 6,64,30,0
+Cycle No. 3No of tumor, Red , White cell : 6,64,30,0
+Cycle No. 4No of tumor, Red , White cell : 6,64,30,0
+Cycle No. 1No of tumor, Red , White cell : 5,75,20,0
+Cycle No. 1No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 2No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 3No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 4No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 5No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 6No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 7No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 8No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 9No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 10No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 11No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 12No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 13No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 14No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 15No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 16No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 17No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 18No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 19No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 20No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 21No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 22No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 23No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 24No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 25No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 26No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 27No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 28No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 29No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 30No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 31No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 32No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 33No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 34No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 35No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 36No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 37No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 38No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 39No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 40No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 41No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 42No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 43No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 44No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 45No of tumor, Red , White cell : 2,71,27,0
+Cycle No. 1No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 2No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 3No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 4No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 5No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 6No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 7No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 8No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 9No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 10No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 11No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 12No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 13No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 14No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 15No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 16No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 17No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 18No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 19No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 20No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 21No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 22No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 23No of tumor, Red , White cell : 3,68,29,0
+Cycle No. 1No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 2No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 3No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 4No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 5No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 6No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 7No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 8No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 9No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 10No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 11No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 12No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 13No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 14No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 15No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 16No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 17No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 18No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 19No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 20No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 21No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 22No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 23No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 24No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 25No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 26No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 27No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 28No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 29No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 30No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 31No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 32No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 33No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 34No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 35No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 36No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 37No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 38No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 39No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 40No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 41No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 42No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 43No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 44No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 45No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 46No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 47No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 48No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 49No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 50No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 51No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 52No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 53No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 54No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 55No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 56No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 57No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 58No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 59No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 60No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 61No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 62No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 63No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 64No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 65No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 66No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 67No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 68No of tumor, Red , White cell : 2,77,20,1
+Cycle No. 1No of tumor, Red , White cell : 5,71,24,0
+Cycle No. 2No of tumor, Red , White cell : 5,71,24,0
+Cycle No. 3No of tumor, Red , White cell : 4,71,24,1
+Cycle No. 4No of tumor, Red , White cell : 4,71,24,1
+Cycle No. 5No of tumor, Red , White cell : 4,71,24,1
+Cycle No. 6No of tumor, Red , White cell : 4,71,24,1
+Cycle No. 7No of tumor, Red , White cell : 4,71,24,1
+Cycle No. 8No of tumor, Red , White cell : 4,71,24,1
+Cycle No. 9No of tumor, Red , White cell : 4,71,24,1
+Cycle No. 10No of tumor, Red , White cell : 4,71,24,1
+Cycle No. 11No of tumor, Red , White cell : 4,71,24,1
+Cycle No. 12No of tumor, Red , White cell : 4,71,24,1
+Cycle No. 13No of tumor, Red , White cell : 4,71,24,1
+Cycle No. 14No of tumor, Red , White cell : 4,71,24,1
+Cycle No. 15No of tumor, Red , White cell : 4,71,24,1
+Cycle No. 16No of tumor, Red , White cell : 4,71,24,1
+Cycle No. 17No of tumor, Red , White cell : 4,71,24,1
+Cycle No. 18No of tumor, Red , White cell : 4,71,24,1
+Cycle No. 19No of tumor, Red , White cell : 4,71,24,1
+Cycle No. 1No of tumor, Red , White cell : 5,73,22,0
+Cycle No. 2No of tumor, Red , White cell : 5,73,22,0
+Cycle No. 3No of tumor, Red , White cell : 5,73,22,0
+Cycle No. 4No of tumor, Red , White cell : 5,73,22,0
+Cycle No. 5No of tumor, Red , White cell : 5,73,22,0
+Cycle No. 6No of tumor, Red , White cell : 5,73,22,0
+Cycle No. 7No of tumor, Red , White cell : 5,73,22,0
+Cycle No. 8No of tumor, Red , White cell : 5,73,22,0
+Cycle No. 9No of tumor, Red , White cell : 5,73,22,0
+Cycle No. 10No of tumor, Red , White cell : 5,73,22,0
+Cycle No. 11No of tumor, Red , White cell : 5,73,22,0
+Cycle No. 12No of tumor, Red , White cell : 5,73,22,0
+Cycle No. 13No of tumor, Red , White cell : 5,73,22,0
+Cycle No. 14No of tumor, Red , White cell : 5,73,22,0
+Cycle No. 15No of tumor, Red , White cell : 5,73,22,0
+Cycle No. 16No of tumor, Red , White cell : 5,73,22,0
+Cycle No. 17No of tumor, Red , White cell : 5,73,22,0
+Cycle No. 18No of tumor, Red , White cell : 5,73,22,0
+Cycle No. 19No of tumor, Red , White cell : 5,73,22,0
+Cycle No. 20No of tumor, Red , White cell : 5,73,22,0
+Cycle No. 21No of tumor, Red , White cell : 5,73,22,0
+Cycle No. 1No of tumor, Red , White cell : 4,76,20,0
+Cycle No. 2No of tumor, Red , White cell : 4,76,20,0
+Cycle No. 3No of tumor, Red , White cell : 4,76,20,0
+Cycle No. 4No of tumor, Red , White cell : 4,76,20,0
+Cycle No. 5No of tumor, Red , White cell : 8,72,20,0
+Cycle No. 6No of tumor, Red , White cell : 7,72,20,1
+Cycle No. 7No of tumor, Red , White cell : 7,72,20,1
+Cycle No. 8No of tumor, Red , White cell : 7,72,20,1
+Cycle No. 9No of tumor, Red , White cell : 7,72,20,1
+Cycle No. 10No of tumor, Red , White cell : 14,65,20,1
+Cycle No. 11No of tumor, Red , White cell : 14,65,20,1
+Cycle No. 12No of tumor, Red , White cell : 14,65,20,1
+Cycle No. 13No of tumor, Red , White cell : 14,65,20,1
+Cycle No. 14No of tumor, Red , White cell : 14,65,20,1
+Cycle No. 15No of tumor, Red , White cell : 28,51,20,1
+Cycle No. 16No of tumor, Red , White cell : 28,51,20,1
+Cycle No. 17No of tumor, Red , White cell : 28,51,20,1
+Cycle No. 18No of tumor, Red , White cell : 28,51,20,1
+Cycle No. 19No of tumor, Red , White cell : 28,51,20,1
+Cycle No. 20No of tumor, Red , White cell : 56,23,20,1
+Cycle No. 21No of tumor, Red , White cell : 56,23,20,1
+Cycle No. 22No of tumor, Red , White cell : 56,23,20,1
+Cycle No. 23No of tumor, Red , White cell : 55,23,20,2
+Cycle No. 24No of tumor, Red , White cell : 55,23,20,2
+Cycle No. 25No of tumor, Red , White cell : 79,0,20,1
+Cycle No. 26No of tumor, Red , White cell : 78,0,20,2
+Cycle No. 27No of tumor, Red , White cell : 77,0,20,3
+Cycle No. 28No of tumor, Red , White cell : 77,0,20,3
+Cycle No. 29No of tumor, Red , White cell : 77,0,20,3
+Cycle No. 30No of tumor, Red , White cell : 98,0,1,1
+Cycle No. 31No of tumor, Red , White cell : 97,0,1,2
+Cycle No. 32No of tumor, Red , White cell : 96,0,1,3
+Cycle No. 33No of tumor, Red , White cell : 95,0,1,4
+Cycle No. 34No of tumor, Red , White cell : 94,0,1,5
+Cycle No. 35No of tumor, Red , White cell : 99,0,0,1
+Cycle No. 1No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 2No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 3No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 4No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 5No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 6No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 7No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 8No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 9No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 10No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 11No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 12No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 13No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 14No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 15No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 16No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 17No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 18No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 19No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 20No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 21No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 22No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 23No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 24No of tumor, Red , White cell : 0,74,26,0
+Cycle No. 1No of tumor, Red , White cell : 3,72,25,0
+Cycle No. 2No of tumor, Red , White cell : 3,72,25,0
+Cycle No. 3No of tumor, Red , White cell : 3,72,25,0
+Cycle No. 4No of tumor, Red , White cell : 3,72,25,0
+Cycle No. 5No of tumor, Red , White cell : 6,69,25,0
+Cycle No. 6No of tumor, Red , White cell : 6,69,25,0
+Cycle No. 7No of tumor, Red , White cell : 6,69,25,0
+Cycle No. 8No of tumor, Red , White cell : 6,69,25,0
+Cycle No. 9No of tumor, Red , White cell : 6,69,25,0
+Cycle No. 10No of tumor, Red , White cell : 12,63,25,0
+Cycle No. 1No of tumor, Red , White cell : 8,66,26,0
+Cycle No. 2No of tumor, Red , White cell : 8,66,26,0
+Cycle No. 3No of tumor, Red , White cell : 8,66,26,0
+Cycle No. 4No of tumor, Red , White cell : 8,66,26,0
+Cycle No. 5No of tumor, Red , White cell : 16,58,26,0
+Cycle No. 6No of tumor, Red , White cell : 15,58,26,1
+Cycle No. 7No of tumor, Red , White cell : 15,58,26,1
+Cycle No. 8No of tumor, Red , White cell : 14,58,26,2
+Cycle No. 9No of tumor, Red , White cell : 14,58,26,2
+Cycle No. 10No of tumor, Red , White cell : 29,44,26,1
+Cycle No. 11No of tumor, Red , White cell : 28,44,26,2
+Cycle No. 12No of tumor, Red , White cell : 28,44,26,2
+Cycle No. 13No of tumor, Red , White cell : 28,44,26,2
+Cycle No. 14No of tumor, Red , White cell : 28,44,26,2
+Cycle No. 15No of tumor, Red , White cell : 56,16,26,2
+Cycle No. 16No of tumor, Red , White cell : 56,16,26,2
+Cycle No. 17No of tumor, Red , White cell : 56,16,26,2
+Cycle No. 18No of tumor, Red , White cell : 55,16,26,3
+Cycle No. 19No of tumor, Red , White cell : 54,16,26,4
+Cycle No. 20No of tumor, Red , White cell : 71,0,26,3
+Cycle No. 21No of tumor, Red , White cell : 70,0,26,4
+Cycle No. 22No of tumor, Red , White cell : 69,0,26,5
+Cycle No. 23No of tumor, Red , White cell : 69,0,26,5
+Cycle No. 24No of tumor, Red , White cell : 68,0,26,6
+Cycle No. 25No of tumor, Red , White cell : 94,0,3,3
+Cycle No. 26No of tumor, Red , White cell : 93,0,3,4
+Cycle No. 27No of tumor, Red , White cell : 92,0,3,5
+Cycle No. 28No of tumor, Red , White cell : 91,0,3,6
+Cycle No. 29No of tumor, Red , White cell : 90,0,3,7
+Cycle No. 30No of tumor, Red , White cell : 97,0,0,3
+Cycle No. 1No of tumor, Red , White cell : 4,74,22,0
+Cycle No. 2No of tumor, Red , White cell : 4,74,22,0
+Cycle No. 3No of tumor, Red , White cell : 4,74,22,0
+Cycle No. 4No of tumor, Red , White cell : 4,74,22,0
+Cycle No. 5No of tumor, Red , White cell : 8,70,22,0
+Cycle No. 6No of tumor, Red , White cell : 8,70,22,0
+Cycle No. 7No of tumor, Red , White cell : 7,70,22,1
+Cycle No. 8No of tumor, Red , White cell : 6,70,22,2
+Cycle No. 9No of tumor, Red , White cell : 6,70,22,2
+Cycle No. 10No of tumor, Red , White cell : 13,64,22,1
+Cycle No. 11No of tumor, Red , White cell : 13,64,22,1
+Cycle No. 12No of tumor, Red , White cell : 13,64,22,1
+Cycle No. 13No of tumor, Red , White cell : 12,64,22,2
+Cycle No. 14No of tumor, Red , White cell : 11,64,22,3
+Cycle No. 15No of tumor, Red , White cell : 24,53,22,1
+Cycle No. 16No of tumor, Red , White cell : 24,53,22,1
+Cycle No. 17No of tumor, Red , White cell : 24,53,22,1
+Cycle No. 18No of tumor, Red , White cell : 24,53,22,1
+Cycle No. 19No of tumor, Red , White cell : 24,53,22,1
+Cycle No. 20No of tumor, Red , White cell : 48,29,22,1
+Cycle No. 21No of tumor, Red , White cell : 48,29,22,1
+Cycle No. 22No of tumor, Red , White cell : 47,29,22,2
+Cycle No. 23No of tumor, Red , White cell : 46,29,22,3
+Cycle No. 24No of tumor, Red , White cell : 46,29,22,3
+Cycle No. 25No of tumor, Red , White cell : 76,0,22,2
+Cycle No. 26No of tumor, Red , White cell : 75,0,22,3
+Cycle No. 27No of tumor, Red , White cell : 75,0,22,3
+Cycle No. 28No of tumor, Red , White cell : 75,0,22,3
+Cycle No. 29No of tumor, Red , White cell : 74,0,22,4
+Cycle No. 30No of tumor, Red , White cell : 96,0,2,2
+Cycle No. 31No of tumor, Red , White cell : 95,0,2,3
+Cycle No. 32No of tumor, Red , White cell : 94,0,2,4
+Cycle No. 33No of tumor, Red , White cell : 93,0,2,5
+Cycle No. 34No of tumor, Red , White cell : 92,0,2,6
+Cycle No. 35No of tumor, Red , White cell : 98,0,0,2
+Cycle No. 1No of tumor, Red , White cell : 5,71,24,0
+Cycle No. 2No of tumor, Red , White cell : 5,71,24,0
+Cycle No. 3No of tumor, Red , White cell : 5,71,24,0
+Cycle No. 4No of tumor, Red , White cell : 5,71,24,0
+Cycle No. 5No of tumor, Red , White cell : 10,66,24,0
+Cycle No. 6No of tumor, Red , White cell : 10,66,24,0
+Cycle No. 7No of tumor, Red , White cell : 10,66,24,0
+Cycle No. 8No of tumor, Red , White cell : 10,66,24,0
+Cycle No. 9No of tumor, Red , White cell : 10,66,24,0
+Cycle No. 10No of tumor, Red , White cell : 20,56,24,0
+Cycle No. 11No of tumor, Red , White cell : 20,56,24,0
+Cycle No. 12No of tumor, Red , White cell : 20,56,24,0
+Cycle No. 13No of tumor, Red , White cell : 20,56,24,0
+Cycle No. 14No of tumor, Red , White cell : 20,56,24,0
+Cycle No. 15No of tumor, Red , White cell : 40,36,24,0
+Cycle No. 16No of tumor, Red , White cell : 39,36,24,1
+Cycle No. 17No of tumor, Red , White cell : 38,36,24,2
+Cycle No. 18No of tumor, Red , White cell : 38,36,24,2
+Cycle No. 19No of tumor, Red , White cell : 38,36,24,2
+Cycle No. 20No of tumor, Red , White cell : 76,0,24,0
+Cycle No. 21No of tumor, Red , White cell : 75,0,24,1
+Cycle No. 22No of tumor, Red , White cell : 74,0,24,2
+Cycle No. 23No of tumor, Red , White cell : 73,0,24,3
+Cycle No. 24No of tumor, Red , White cell : 72,0,24,4
+Cycle No. 25No of tumor, Red , White cell : 94,0,3,3
+Cycle No. 26No of tumor, Red , White cell : 93,0,3,4
+Cycle No. 27No of tumor, Red , White cell : 92,0,3,5
+Cycle No. 28No of tumor, Red , White cell : 92,0,3,5
+Cycle No. 29No of tumor, Red , White cell : 92,0,3,5
+Cycle No. 30No of tumor, Red , White cell : 95,0,0,5
+Cycle No. 1No of tumor, Red , White cell : 5,65,30,0
+Cycle No. 2No of tumor, Red , White cell : 5,65,30,0
+Cycle No. 3No of tumor, Red , White cell : 5,65,30,0
+Cycle No. 4No of tumor, Red , White cell : 5,65,30,0
+Cycle No. 5No of tumor, Red , White cell : 10,60,30,0
+Cycle No. 6No of tumor, Red , White cell : 10,60,30,0
+Cycle No. 7No of tumor, Red , White cell : 10,60,30,0
+Cycle No. 8No of tumor, Red , White cell : 9,60,30,1
+Cycle No. 9No of tumor, Red , White cell : 9,60,30,1
+Cycle No. 10No of tumor, Red , White cell : 18,51,30,1
+Cycle No. 11No of tumor, Red , White cell : 18,51,30,1
+Cycle No. 12No of tumor, Red , White cell : 18,51,30,1
+Cycle No. 13No of tumor, Red , White cell : 18,51,30,1
+Cycle No. 14No of tumor, Red , White cell : 18,51,30,1
+Cycle No. 15No of tumor, Red , White cell : 36,33,30,1
+Cycle No. 16No of tumor, Red , White cell : 36,33,30,1
+Cycle No. 17No of tumor, Red , White cell : 36,33,30,1
+Cycle No. 18No of tumor, Red , White cell : 35,33,30,2
+Cycle No. 19No of tumor, Red , White cell : 34,33,30,3
+Cycle No. 20No of tumor, Red , White cell : 68,1,30,1
+Cycle No. 21No of tumor, Red , White cell : 68,1,30,1
+Cycle No. 22No of tumor, Red , White cell : 67,1,30,2
+Cycle No. 23No of tumor, Red , White cell : 67,1,30,2
+Cycle No. 24No of tumor, Red , White cell : 66,1,30,3
+Cycle No. 25No of tumor, Red , White cell : 66,0,30,4
+Cycle No. 26No of tumor, Red , White cell : 66,0,30,4
+Cycle No. 27No of tumor, Red , White cell : 66,0,30,4
+Cycle No. 28No of tumor, Red , White cell : 65,0,30,5
+Cycle No. 29No of tumor, Red , White cell : 64,0,30,6
+Cycle No. 30No of tumor, Red , White cell : 89,0,4,7
+Cycle No. 31No of tumor, Red , White cell : 88,0,4,8
+Cycle No. 32No of tumor, Red , White cell : 87,0,4,9
+Cycle No. 33No of tumor, Red , White cell : 86,0,4,10
+Cycle No. 34No of tumor, Red , White cell : 86,0,4,10
+Cycle No. 35No of tumor, Red , White cell : 90,0,0,10
+Cycle No. 1No of tumor, Red , White cell : 6,69,25,0
+Cycle No. 2No of tumor, Red , White cell : 6,69,25,0
+Cycle No. 3No of tumor, Red , White cell : 6,69,25,0
+Cycle No. 4No of tumor, Red , White cell : 6,69,25,0
+Cycle No. 5No of tumor, Red , White cell : 10,64,25,1
+Cycle No. 6No of tumor, Red , White cell : 10,64,25,1
+Cycle No. 7No of tumor, Red , White cell : 10,64,25,1
+Cycle No. 8No of tumor, Red , White cell : 9,64,25,2
+Cycle No. 9No of tumor, Red , White cell : 8,64,25,3
+Cycle No. 10No of tumor, Red , White cell : 18,56,25,1
+Cycle No. 11No of tumor, Red , White cell : 18,56,25,1
+Cycle No. 12No of tumor, Red , White cell : 18,56,25,1
+Cycle No. 13No of tumor, Red , White cell : 17,56,25,2
+Cycle No. 14No of tumor, Red , White cell : 17,56,25,2
+Cycle No. 15No of tumor, Red , White cell : 35,39,25,1
+Cycle No. 16No of tumor, Red , White cell : 35,39,25,1
+Cycle No. 17No of tumor, Red , White cell : 35,39,25,1
+Cycle No. 18No of tumor, Red , White cell : 35,39,25,1
+Cycle No. 19No of tumor, Red , White cell : 35,39,25,1
+Cycle No. 20No of tumor, Red , White cell : 70,4,25,1
+Cycle No. 21No of tumor, Red , White cell : 70,4,25,1
+Cycle No. 22No of tumor, Red , White cell : 69,4,25,2
+Cycle No. 23No of tumor, Red , White cell : 68,4,25,3
+Cycle No. 24No of tumor, Red , White cell : 68,4,25,3
+Cycle No. 25No of tumor, Red , White cell : 73,0,24,3
+Cycle No. 26No of tumor, Red , White cell : 72,0,24,4
+Cycle No. 27No of tumor, Red , White cell : 71,0,24,5
+Cycle No. 28No of tumor, Red , White cell : 70,0,24,6
+Cycle No. 29No of tumor, Red , White cell : 69,0,24,7
+Cycle No. 30No of tumor, Red , White cell : 87,0,5,8
+Cycle No. 31No of tumor, Red , White cell : 86,0,5,9
+Cycle No. 32No of tumor, Red , White cell : 85,0,5,10
+Cycle No. 33No of tumor, Red , White cell : 85,0,5,10
+Cycle No. 34No of tumor, Red , White cell : 84,0,5,11
+Cycle No. 35No of tumor, Red , White cell : 88,0,0,12
+Cycle No. 1No of tumor, Red , White cell : 7,62,31,0
+Cycle No. 2No of tumor, Red , White cell : 7,62,31,0
+Cycle No. 3No of tumor, Red , White cell : 7,62,31,0
+Cycle No. 4No of tumor, Red , White cell : 7,62,31,0
+Cycle No. 5No of tumor, Red , White cell : 14,55,31,0
+Cycle No. 6No of tumor, Red , White cell : 14,55,31,0
+Cycle No. 7No of tumor, Red , White cell : 14,55,31,0
+Cycle No. 8No of tumor, Red , White cell : 14,55,31,0
+Cycle No. 9No of tumor, Red , White cell : 13,55,31,1
+Cycle No. 10No of tumor, Red , White cell : 26,42,31,1
+Cycle No. 11No of tumor, Red , White cell : 26,42,31,1
+Cycle No. 12No of tumor, Red , White cell : 25,42,31,2
+Cycle No. 13No of tumor, Red , White cell : 25,42,31,2
+Cycle No. 14No of tumor, Red , White cell : 24,42,31,3
+Cycle No. 15No of tumor, Red , White cell : 48,19,31,2
+Cycle No. 16No of tumor, Red , White cell : 48,19,31,2
+Cycle No. 17No of tumor, Red , White cell : 47,19,31,3
+Cycle No. 18No of tumor, Red , White cell : 46,19,31,4
+Cycle No. 19No of tumor, Red , White cell : 46,19,31,4
+Cycle No. 20No of tumor, Red , White cell : 66,0,31,3
+Cycle No. 21No of tumor, Red , White cell : 65,0,31,4
+Cycle No. 22No of tumor, Red , White cell : 64,0,31,5
+Cycle No. 23No of tumor, Red , White cell : 63,0,31,6
+Cycle No. 24No of tumor, Red , White cell : 62,0,31,7
+Cycle No. 25No of tumor, Red , White cell : 85,0,9,6
+Cycle No. 26No of tumor, Red , White cell : 85,0,9,6
+Cycle No. 27No of tumor, Red , White cell : 84,0,9,7
+Cycle No. 28No of tumor, Red , White cell : 83,0,9,8
+Cycle No. 29No of tumor, Red , White cell : 82,0,9,9
+Cycle No. 30No of tumor, Red , White cell : 90,0,1,9
+Cycle No. 31No of tumor, Red , White cell : 89,0,1,10
+Cycle No. 32No of tumor, Red , White cell : 88,0,1,11
+Cycle No. 33No of tumor, Red , White cell : 87,0,1,12
+Cycle No. 34No of tumor, Red , White cell : 86,0,1,13
+Cycle No. 35No of tumor, Red , White cell : 87,0,0,13
+Cycle No. 1No of tumor, Red , White cell : 2,68,30,0
+Cycle No. 2No of tumor, Red , White cell : 2,68,30,0
+Cycle No. 3No of tumor, Red , White cell : 2,68,30,0
+Cycle No. 4No of tumor, Red , White cell : 2,68,30,0
+Cycle No. 5No of tumor, Red , White cell : 4,66,30,0
+Cycle No. 6No of tumor, Red , White cell : 4,66,30,0
+Cycle No. 7No of tumor, Red , White cell : 4,66,30,0
+Cycle No. 8No of tumor, Red , White cell : 4,66,30,0
+Cycle No. 9No of tumor, Red , White cell : 4,66,30,0
+Cycle No. 10No of tumor, Red , White cell : 8,62,30,0
+Cycle No. 11No of tumor, Red , White cell : 8,62,30,0
+Cycle No. 12No of tumor, Red , White cell : 8,62,30,0
+Cycle No. 13No of tumor, Red , White cell : 8,62,30,0
+Cycle No. 14No of tumor, Red , White cell : 8,62,30,0
+Cycle No. 15No of tumor, Red , White cell : 16,54,30,0
+Cycle No. 16No of tumor, Red , White cell : 16,54,30,0
+Cycle No. 17No of tumor, Red , White cell : 16,54,30,0
+Cycle No. 18No of tumor, Red , White cell : 16,54,30,0
+Cycle No. 19No of tumor, Red , White cell : 16,54,30,0
+Cycle No. 20No of tumor, Red , White cell : 32,38,30,0
+Cycle No. 21No of tumor, Red , White cell : 32,38,30,0
+Cycle No. 22No of tumor, Red , White cell : 32,38,30,0
+Cycle No. 23No of tumor, Red , White cell : 31,38,30,1
+Cycle No. 24No of tumor, Red , White cell : 31,38,30,1
+Cycle No. 25No of tumor, Red , White cell : 61,8,30,1
+Cycle No. 26No of tumor, Red , White cell : 61,8,30,1
+Cycle No. 27No of tumor, Red , White cell : 60,8,30,2
+Cycle No. 28No of tumor, Red , White cell : 60,8,30,2
+Cycle No. 29No of tumor, Red , White cell : 60,8,30,2
+Cycle No. 30No of tumor, Red , White cell : 69,0,30,1
+Cycle No. 31No of tumor, Red , White cell : 68,0,30,2
+Cycle No. 32No of tumor, Red , White cell : 68,0,30,2
+Cycle No. 33No of tumor, Red , White cell : 67,0,30,3
+Cycle No. 34No of tumor, Red , White cell : 67,0,30,3
+Cycle No. 35No of tumor, Red , White cell : 95,0,3,2
+Cycle No. 36No of tumor, Red , White cell : 94,0,3,3
+Cycle No. 37No of tumor, Red , White cell : 93,0,3,4
+Cycle No. 38No of tumor, Red , White cell : 92,0,3,5
+Cycle No. 39No of tumor, Red , White cell : 91,0,3,6
+Cycle No. 40No of tumor, Red , White cell : 94,0,0,6
+Cycle No. 1No of tumor, Red , White cell : 7,70,23,0
+Cycle No. 2No of tumor, Red , White cell : 7,70,23,0
+Cycle No. 3No of tumor, Red , White cell : 7,70,23,0
+Cycle No. 4No of tumor, Red , White cell : 7,70,23,0
+Cycle No. 5No of tumor, Red , White cell : 14,63,23,0
+Cycle No. 6No of tumor, Red , White cell : 14,63,23,0
+Cycle No. 7No of tumor, Red , White cell : 14,63,23,0
+Cycle No. 8No of tumor, Red , White cell : 13,63,23,1
+Cycle No. 9No of tumor, Red , White cell : 13,63,23,1
+Cycle No. 10No of tumor, Red , White cell : 27,50,23,0
+Cycle No. 11No of tumor, Red , White cell : 27,50,23,0
+Cycle No. 12No of tumor, Red , White cell : 27,50,23,0
+Cycle No. 13No of tumor, Red , White cell : 27,50,23,0
+Cycle No. 14No of tumor, Red , White cell : 27,50,23,0
+Cycle No. 15No of tumor, Red , White cell : 54,23,23,0
+Cycle No. 16No of tumor, Red , White cell : 53,23,23,1
+Cycle No. 17No of tumor, Red , White cell : 53,23,23,1
+Cycle No. 18No of tumor, Red , White cell : 52,23,23,2
+Cycle No. 19No of tumor, Red , White cell : 52,23,23,2
+Cycle No. 20No of tumor, Red , White cell : 75,0,23,2
+Cycle No. 21No of tumor, Red , White cell : 74,0,23,3
+Cycle No. 22No of tumor, Red , White cell : 74,0,23,3
+Cycle No. 23No of tumor, Red , White cell : 73,0,23,4
+Cycle No. 24No of tumor, Red , White cell : 73,0,23,4
+Cycle No. 25No of tumor, Red , White cell : 94,0,1,5
+Cycle No. 26No of tumor, Red , White cell : 93,0,1,6
+Cycle No. 27No of tumor, Red , White cell : 92,0,1,7
+Cycle No. 28No of tumor, Red , White cell : 91,0,1,8
+Cycle No. 29No of tumor, Red , White cell : 90,0,1,9
+Cycle No. 30No of tumor, Red , White cell : 90,0,0,10
+Cycle No. 1No of tumor, Red , White cell : 8,67,25,0
+Cycle No. 2No of tumor, Red , White cell : 7,67,25,1
+Cycle No. 3No of tumor, Red , White cell : 7,67,25,1
+Cycle No. 4No of tumor, Red , White cell : 7,67,25,1
+Cycle No. 1No of tumor, Red , White cell : 3,70,27,0
+Cycle No. 2No of tumor, Red , White cell : 3,70,27,0
+Cycle No. 3No of tumor, Red , White cell : 3,70,27,0
+Cycle No. 4No of tumor, Red , White cell : 3,70,27,0
+Cycle No. 5No of tumor, Red , White cell : 6,67,27,0
+Cycle No. 6No of tumor, Red , White cell : 6,67,27,0
+Cycle No. 7No of tumor, Red , White cell : 6,67,27,0
+Cycle No. 8No of tumor, Red , White cell : 6,67,27,0
+Cycle No. 9No of tumor, Red , White cell : 6,67,27,0
+Cycle No. 10No of tumor, Red , White cell : 12,61,27,0
+Cycle No. 11No of tumor, Red , White cell : 12,61,27,0
+Cycle No. 12No of tumor, Red , White cell : 12,61,27,0
+Cycle No. 13No of tumor, Red , White cell : 12,61,27,0
+Cycle No. 14No of tumor, Red , White cell : 12,61,27,0
+Cycle No. 15No of tumor, Red , White cell : 24,49,27,0
+Cycle No. 16No of tumor, Red , White cell : 24,49,27,0
+Cycle No. 17No of tumor, Red , White cell : 24,49,27,0
+Cycle No. 18No of tumor, Red , White cell : 24,49,27,0
+Cycle No. 19No of tumor, Red , White cell : 24,49,27,0
+Cycle No. 20No of tumor, Red , White cell : 48,25,27,0
+Cycle No. 21No of tumor, Red , White cell : 47,25,27,1
+Cycle No. 22No of tumor, Red , White cell : 46,25,27,2
+Cycle No. 23No of tumor, Red , White cell : 45,25,27,3
+Cycle No. 24No of tumor, Red , White cell : 45,25,27,3
+Cycle No. 25No of tumor, Red , White cell : 71,0,27,2
+Cycle No. 26No of tumor, Red , White cell : 70,0,27,3
+Cycle No. 27No of tumor, Red , White cell : 69,0,27,4
+Cycle No. 28No of tumor, Red , White cell : 68,0,27,5
+Cycle No. 29No of tumor, Red , White cell : 67,0,27,6
+Cycle No. 1No of tumor, Red , White cell : 5,74,21,0
+Cycle No. 2No of tumor, Red , White cell : 5,74,21,0
+Cycle No. 3No of tumor, Red , White cell : 5,74,21,0
+Cycle No. 4No of tumor, Red , White cell : 5,74,21,0
+Cycle No. 5No of tumor, Red , White cell : 10,69,21,0
+Cycle No. 6No of tumor, Red , White cell : 10,69,21,0
+Cycle No. 7No of tumor, Red , White cell : 10,69,21,0
+Cycle No. 8No of tumor, Red , White cell : 9,69,21,1
+Cycle No. 9No of tumor, Red , White cell : 9,69,21,1
+Cycle No. 10No of tumor, Red , White cell : 18,60,21,1
+Cycle No. 11No of tumor, Red , White cell : 17,60,21,2
+Cycle No. 12No of tumor, Red , White cell : 17,60,21,2
+Cycle No. 13No of tumor, Red , White cell : 17,60,21,2
+Cycle No. 14No of tumor, Red , White cell : 17,60,21,2
+Cycle No. 1No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 2No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 3No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 4No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 1No of tumor, Red , White cell : 9,67,24,0
+Cycle No. 2No of tumor, Red , White cell : 9,67,24,0
+Cycle No. 3No of tumor, Red , White cell : 9,67,24,0
+Cycle No. 4No of tumor, Red , White cell : 9,67,24,0
+Cycle No. 1No of tumor, Red , White cell : 7,75,18,0
+Cycle No. 2No of tumor, Red , White cell : 7,75,18,0
+Cycle No. 3No of tumor, Red , White cell : 7,75,18,0
+Cycle No. 4No of tumor, Red , White cell : 7,75,18,0
+Cycle No. 5No of tumor, Red , White cell : 18,64,18,0
+Cycle No. 6No of tumor, Red , White cell : 18,64,18,0
+Cycle No. 7No of tumor, Red , White cell : 18,64,18,0
+Cycle No. 8No of tumor, Red , White cell : 18,64,18,0
+Cycle No. 9No of tumor, Red , White cell : 18,64,18,0
+Cycle No. 10No of tumor, Red , White cell : 47,35,18,0
+Cycle No. 11No of tumor, Red , White cell : 47,35,18,0
+Cycle No. 12No of tumor, Red , White cell : 46,35,18,1
+Cycle No. 13No of tumor, Red , White cell : 46,35,18,1
+Cycle No. 14No of tumor, Red , White cell : 46,35,18,1
+Cycle No. 15No of tumor, Red , White cell : 98,0,0,2
+Cycle No. 1No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 2No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 3No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 4No of tumor, Red , White cell : 3,77,20,0
+Cycle No. 5No of tumor, Red , White cell : 9,71,20,0
+Cycle No. 6No of tumor, Red , White cell : 9,71,20,0
+Cycle No. 7No of tumor, Red , White cell : 9,71,20,0
+Cycle No. 8No of tumor, Red , White cell : 9,71,20,0
+Cycle No. 9No of tumor, Red , White cell : 9,71,20,0
+Cycle No. 10No of tumor, Red , White cell : 26,54,20,0
+Cycle No. 11No of tumor, Red , White cell : 26,54,20,0
+Cycle No. 12No of tumor, Red , White cell : 26,54,20,0
+Cycle No. 13No of tumor, Red , White cell : 26,54,20,0
+Cycle No. 14No of tumor, Red , White cell : 26,54,20,0
+Cycle No. 15No of tumor, Red , White cell : 67,12,20,1
+Cycle No. 16No of tumor, Red , White cell : 66,12,20,2
+Cycle No. 17No of tumor, Red , White cell : 66,12,20,2
+Cycle No. 18No of tumor, Red , White cell : 65,12,20,3
+Cycle No. 19No of tumor, Red , White cell : 64,12,20,4
+Cycle No. 20No of tumor, Red , White cell : 96,0,0,4
+Cycle No. 1No of tumor, Red , White cell : 4,66,30,0
+Cycle No. 2No of tumor, Red , White cell : 4,66,30,0
+Cycle No. 3No of tumor, Red , White cell : 4,66,30,0
+Cycle No. 4No of tumor, Red , White cell : 4,66,30,0
+Cycle No. 5No of tumor, Red , White cell : 11,59,30,0
+Cycle No. 6No of tumor, Red , White cell : 11,59,30,0
+Cycle No. 7No of tumor, Red , White cell : 11,59,30,0
+Cycle No. 8No of tumor, Red , White cell : 11,59,30,0
+Cycle No. 9No of tumor, Red , White cell : 11,59,30,0
+Cycle No. 10No of tumor, Red , White cell : 32,38,30,0
+Cycle No. 11No of tumor, Red , White cell : 32,38,30,0
+Cycle No. 12No of tumor, Red , White cell : 32,38,30,0
+Cycle No. 13No of tumor, Red , White cell : 32,38,30,0
+Cycle No. 14No of tumor, Red , White cell : 32,38,30,0
+Cycle No. 15No of tumor, Red , White cell : 91,0,9,0
+Cycle No. 16No of tumor, Red , White cell : 91,0,9,0
+Cycle No. 17No of tumor, Red , White cell : 90,0,9,1
+Cycle No. 18No of tumor, Red , White cell : 89,0,9,2
+Cycle No. 19No of tumor, Red , White cell : 89,0,9,2
+Cycle No. 20No of tumor, Red , White cell : 97,0,0,3
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 7,70,23,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 6,70,23,1
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 6,70,23,1
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 6,70,23,1
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 20,56,23,1
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 19,56,23,2
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 19,56,23,2
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 19,56,23,2
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 19,56,23,2
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 56,19,23,2
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 55,19,23,3
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 55,19,23,3
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 54,19,23,4
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 54,19,23,4
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 96,0,0,4
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 6,65,29,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 6,65,29,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 6,65,29,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 6,65,29,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 14,57,29,0
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 13,57,29,1
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 13,57,29,1
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 13,57,29,1
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 13,57,29,1
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 34,36,29,1
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 34,36,29,1
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 34,36,29,1
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 34,36,29,1
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 33,36,29,2
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 83,0,14,3
+Cycle No. 16No of tumor, Red , White cell, Destroyed Cell : 82,0,14,4
+Cycle No. 17No of tumor, Red , White cell, Destroyed Cell : 81,0,14,5
+Cycle No. 18No of tumor, Red , White cell, Destroyed Cell : 80,0,14,6
+Cycle No. 19No of tumor, Red , White cell, Destroyed Cell : 79,0,14,7
+Cycle No. 20No of tumor, Red , White cell, Destroyed Cell : 92,0,0,8
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 35,31,34,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 35,31,34,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 35,31,34,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 34,31,34,1
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 93,0,6,1
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 92,0,6,2
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 91,0,6,3
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 90,0,6,4
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 89,0,6,5
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 94,0,0,6
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 34,32,33,1
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 33,32,33,2
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 32,32,33,3
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 32,32,33,3
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 87,0,10,3
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 86,0,10,4
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 85,0,10,5
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 84,0,10,6
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 83,0,10,7
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 92,0,0,8
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 12,58,30,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 12,58,30,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 12,58,30,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 12,58,30,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 32,38,30,0
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 32,38,30,0
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 31,38,30,1
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 31,38,30,1
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 30,38,30,2
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 78,0,19,3
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 78,0,19,3
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 78,0,19,3
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 78,0,19,3
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 77,0,19,4
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 95,0,0,5
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 8,64,28,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 7,64,28,1
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 7,64,28,1
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 7,64,28,1
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 19,52,28,1
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 19,52,28,1
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 19,52,28,1
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 18,52,28,2
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 18,52,28,2
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 47,23,28,2
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 47,23,28,2
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 47,23,28,2
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 46,23,28,3
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 45,23,28,4
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 96,0,0,4
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 6,61,33,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 6,61,33,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 6,61,33,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 6,61,33,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 19,48,33,0
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 19,48,33,0
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 19,48,33,0
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 19,48,33,0
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 19,48,33,0
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 52,15,33,0
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 52,15,33,0
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 52,15,33,0
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 51,15,33,1
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 50,15,33,2
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 98,0,0,2
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 7,53,40,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 7,53,40,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 7,53,40,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 7,53,40,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 16,44,40,0
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 16,44,40,0
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 16,44,40,0
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 16,44,40,0
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 16,44,40,0
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 41,19,40,0
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 41,19,40,0
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 40,19,40,1
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 39,19,40,2
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 38,19,40,3
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 88,0,8,4
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 2,66,32,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 2,66,32,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 2,66,32,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 2,66,32,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 6,62,32,0
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 6,62,32,0
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 6,62,32,0
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 6,62,32,0
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 6,62,32,0
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 16,51,32,1
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 16,51,32,1
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 16,51,32,1
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 16,51,32,1
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 16,51,32,1
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 45,22,32,1
+Cycle No. 16No of tumor, Red , White cell, Destroyed Cell : 45,22,32,1
+Cycle No. 17No of tumor, Red , White cell, Destroyed Cell : 45,22,32,1
+Cycle No. 18No of tumor, Red , White cell, Destroyed Cell : 44,22,32,2
+Cycle No. 19No of tumor, Red , White cell, Destroyed Cell : 43,22,32,3
+Cycle No. 20No of tumor, Red , White cell, Destroyed Cell : 96,0,0,4
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 6,69,25,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 6,69,25,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 6,69,25,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 5,69,25,1
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 12,62,25,1
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 12,62,25,1
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 12,62,25,1
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 12,62,25,1
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 12,62,25,1
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 37,37,25,1
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 37,37,25,1
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 37,37,25,1
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 37,37,25,1
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 36,37,25,2
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 94,0,3,3
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 3,64,33,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 3,64,33,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 3,64,33,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 3,64,33,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 11,56,33,0
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 11,56,33,0
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 11,56,33,0
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 10,56,33,1
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 10,56,33,1
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 10,56,33,1
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 9,56,33,2
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 8,56,33,3
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 8,56,33,3
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 8,56,33,3
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 8,56,33,3
+Cycle No. 16No of tumor, Red , White cell, Destroyed Cell : 8,56,33,3
+Cycle No. 17No of tumor, Red , White cell, Destroyed Cell : 8,56,33,3
+Cycle No. 18No of tumor, Red , White cell, Destroyed Cell : 7,56,33,4
+Cycle No. 19No of tumor, Red , White cell, Destroyed Cell : 7,56,33,4
+Cycle No. 20No of tumor, Red , White cell, Destroyed Cell : 7,56,33,4
+Cycle No. 21No of tumor, Red , White cell, Destroyed Cell : 7,56,33,4
+Cycle No. 22No of tumor, Red , White cell, Destroyed Cell : 7,56,33,4
+Cycle No. 23No of tumor, Red , White cell, Destroyed Cell : 7,56,33,4
+Cycle No. 24No of tumor, Red , White cell, Destroyed Cell : 7,56,33,4
+Cycle No. 25No of tumor, Red , White cell, Destroyed Cell : 7,56,33,4
+Cycle No. 26No of tumor, Red , White cell, Destroyed Cell : 7,56,33,4
+Cycle No. 27No of tumor, Red , White cell, Destroyed Cell : 7,56,33,4
+Cycle No. 28No of tumor, Red , White cell, Destroyed Cell : 7,56,33,4
+Cycle No. 29No of tumor, Red , White cell, Destroyed Cell : 7,56,33,4
+Cycle No. 30No of tumor, Red , White cell, Destroyed Cell : 7,56,33,4
+Cycle No. 31No of tumor, Red , White cell, Destroyed Cell : 6,56,33,5
+Cycle No. 32No of tumor, Red , White cell, Destroyed Cell : 6,56,33,5
+Cycle No. 33No of tumor, Red , White cell, Destroyed Cell : 6,56,33,5
+Cycle No. 34No of tumor, Red , White cell, Destroyed Cell : 6,56,33,5
+Cycle No. 35No of tumor, Red , White cell, Destroyed Cell : 6,56,33,5
+Cycle No. 36No of tumor, Red , White cell, Destroyed Cell : 6,56,33,5
+Cycle No. 37No of tumor, Red , White cell, Destroyed Cell : 6,56,33,5
+Cycle No. 38No of tumor, Red , White cell, Destroyed Cell : 6,56,33,5
+Cycle No. 39No of tumor, Red , White cell, Destroyed Cell : 6,56,33,5
+Cycle No. 40No of tumor, Red , White cell, Destroyed Cell : 6,56,33,5
+Cycle No. 41No of tumor, Red , White cell, Destroyed Cell : 6,56,33,5
+Cycle No. 42No of tumor, Red , White cell, Destroyed Cell : 6,56,33,5
+Cycle No. 43No of tumor, Red , White cell, Destroyed Cell : 6,56,33,5
+Cycle No. 44No of tumor, Red , White cell, Destroyed Cell : 6,56,33,5
+Cycle No. 45No of tumor, Red , White cell, Destroyed Cell : 6,56,33,5
+Cycle No. 46No of tumor, Red , White cell, Destroyed Cell : 6,56,33,5
+Cycle No. 47No of tumor, Red , White cell, Destroyed Cell : 6,56,33,5
+Cycle No. 48No of tumor, Red , White cell, Destroyed Cell : 6,56,33,5
+Cycle No. 49No of tumor, Red , White cell, Destroyed Cell : 6,56,33,5
+Cycle No. 50No of tumor, Red , White cell, Destroyed Cell : 6,56,33,5
+Cycle No. 51No of tumor, Red , White cell, Destroyed Cell : 6,56,33,5
+Cycle No. 52No of tumor, Red , White cell, Destroyed Cell : 6,56,33,5
+Cycle No. 53No of tumor, Red , White cell, Destroyed Cell : 5,56,33,6
+Cycle No. 54No of tumor, Red , White cell, Destroyed Cell : 5,56,33,6
+Cycle No. 55No of tumor, Red , White cell, Destroyed Cell : 4,56,33,7
+Cycle No. 56No of tumor, Red , White cell, Destroyed Cell : 4,56,33,7
+Cycle No. 57No of tumor, Red , White cell, Destroyed Cell : 4,56,33,7
+Cycle No. 58No of tumor, Red , White cell, Destroyed Cell : 4,56,33,7
+Cycle No. 59No of tumor, Red , White cell, Destroyed Cell : 4,56,33,7
+Cycle No. 60No of tumor, Red , White cell, Destroyed Cell : 4,56,33,7
+Cycle No. 61No of tumor, Red , White cell, Destroyed Cell : 4,56,33,7
+Cycle No. 62No of tumor, Red , White cell, Destroyed Cell : 4,56,33,7
+Cycle No. 63No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 64No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 65No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 66No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 67No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 68No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 69No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 70No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 71No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 72No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 73No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 74No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 75No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 76No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 77No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 78No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 79No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 80No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 81No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 82No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 83No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 84No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 85No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 86No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 87No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 88No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 89No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 90No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 91No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 92No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 93No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 94No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 95No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 96No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 97No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 98No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 99No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 100No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 101No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 102No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 103No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 104No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 105No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 106No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 107No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 108No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 109No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 110No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 111No of tumor, Red , White cell, Destroyed Cell : 3,56,33,8
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 4,72,24,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 4,72,24,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 4,72,24,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 4,72,24,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 11,65,24,0
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 11,65,24,0
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 11,65,24,0
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 11,65,24,0
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 11,65,24,0
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 10,65,24,1
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 10,65,24,1
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 10,65,24,1
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 10,65,24,1
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 10,65,24,1
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 10,65,24,1
+Cycle No. 16No of tumor, Red , White cell, Destroyed Cell : 10,65,24,1
+Cycle No. 17No of tumor, Red , White cell, Destroyed Cell : 10,65,24,1
+Cycle No. 18No of tumor, Red , White cell, Destroyed Cell : 10,65,24,1
+Cycle No. 19No of tumor, Red , White cell, Destroyed Cell : 10,65,24,1
+Cycle No. 20No of tumor, Red , White cell, Destroyed Cell : 10,65,24,1
+Cycle No. 21No of tumor, Red , White cell, Destroyed Cell : 10,65,24,1
+Cycle No. 22No of tumor, Red , White cell, Destroyed Cell : 9,65,24,2
+Cycle No. 23No of tumor, Red , White cell, Destroyed Cell : 9,65,24,2
+Cycle No. 24No of tumor, Red , White cell, Destroyed Cell : 9,65,24,2
+Cycle No. 25No of tumor, Red , White cell, Destroyed Cell : 9,65,24,2
+Cycle No. 26No of tumor, Red , White cell, Destroyed Cell : 9,65,24,2
+Cycle No. 27No of tumor, Red , White cell, Destroyed Cell : 9,65,24,2
+Cycle No. 28No of tumor, Red , White cell, Destroyed Cell : 9,65,24,2
+Cycle No. 29No of tumor, Red , White cell, Destroyed Cell : 9,65,24,2
+Cycle No. 30No of tumor, Red , White cell, Destroyed Cell : 8,65,24,3
+Cycle No. 31No of tumor, Red , White cell, Destroyed Cell : 8,65,24,3
+Cycle No. 32No of tumor, Red , White cell, Destroyed Cell : 8,65,24,3
+Cycle No. 33No of tumor, Red , White cell, Destroyed Cell : 8,65,24,3
+Cycle No. 34No of tumor, Red , White cell, Destroyed Cell : 8,65,24,3
+Cycle No. 35No of tumor, Red , White cell, Destroyed Cell : 8,65,24,3
+Cycle No. 36No of tumor, Red , White cell, Destroyed Cell : 8,65,24,3
+Cycle No. 37No of tumor, Red , White cell, Destroyed Cell : 7,65,24,4
+Cycle No. 38No of tumor, Red , White cell, Destroyed Cell : 6,65,24,5
+Cycle No. 39No of tumor, Red , White cell, Destroyed Cell : 6,65,24,5
+Cycle No. 40No of tumor, Red , White cell, Destroyed Cell : 6,65,24,5
+Cycle No. 41No of tumor, Red , White cell, Destroyed Cell : 5,65,24,6
+Cycle No. 42No of tumor, Red , White cell, Destroyed Cell : 5,65,24,6
+Cycle No. 43No of tumor, Red , White cell, Destroyed Cell : 5,65,24,6
+Cycle No. 44No of tumor, Red , White cell, Destroyed Cell : 5,65,24,6
+Cycle No. 45No of tumor, Red , White cell, Destroyed Cell : 5,65,24,6
+Cycle No. 46No of tumor, Red , White cell, Destroyed Cell : 5,65,24,6
+Cycle No. 47No of tumor, Red , White cell, Destroyed Cell : 5,65,24,6
+Cycle No. 48No of tumor, Red , White cell, Destroyed Cell : 5,65,24,6
+Cycle No. 49No of tumor, Red , White cell, Destroyed Cell : 5,65,24,6
+Cycle No. 50No of tumor, Red , White cell, Destroyed Cell : 5,65,24,6
+Cycle No. 51No of tumor, Red , White cell, Destroyed Cell : 5,65,24,6
+Cycle No. 52No of tumor, Red , White cell, Destroyed Cell : 5,65,24,6
+Cycle No. 53No of tumor, Red , White cell, Destroyed Cell : 5,65,24,6
+Cycle No. 54No of tumor, Red , White cell, Destroyed Cell : 5,65,24,6
+Cycle No. 55No of tumor, Red , White cell, Destroyed Cell : 5,65,24,6
+Cycle No. 56No of tumor, Red , White cell, Destroyed Cell : 5,65,24,6
+Cycle No. 57No of tumor, Red , White cell, Destroyed Cell : 5,65,24,6
+Cycle No. 58No of tumor, Red , White cell, Destroyed Cell : 5,65,24,6
+Cycle No. 59No of tumor, Red , White cell, Destroyed Cell : 5,65,24,6
+Cycle No. 60No of tumor, Red , White cell, Destroyed Cell : 5,65,24,6
+Cycle No. 61No of tumor, Red , White cell, Destroyed Cell : 4,65,24,7
+Cycle No. 62No of tumor, Red , White cell, Destroyed Cell : 4,65,24,7
+Cycle No. 63No of tumor, Red , White cell, Destroyed Cell : 4,65,24,7
+Cycle No. 64No of tumor, Red , White cell, Destroyed Cell : 4,65,24,7
+Cycle No. 65No of tumor, Red , White cell, Destroyed Cell : 4,65,24,7
+Cycle No. 66No of tumor, Red , White cell, Destroyed Cell : 4,65,24,7
+Cycle No. 67No of tumor, Red , White cell, Destroyed Cell : 4,65,24,7
+Cycle No. 68No of tumor, Red , White cell, Destroyed Cell : 4,65,24,7
+Cycle No. 69No of tumor, Red , White cell, Destroyed Cell : 4,65,24,7
+Cycle No. 70No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 71No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 72No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 73No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 74No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 75No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 76No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 77No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 78No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 79No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 80No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 81No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 82No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 83No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 84No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 85No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 86No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 87No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 88No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 89No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 90No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 91No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 92No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 93No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 94No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 95No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 96No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 97No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 98No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 99No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 100No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 101No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 102No of tumor, Red , White cell, Destroyed Cell : 3,65,24,8
+Cycle No. 103No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 104No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 105No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 106No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 107No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 108No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 109No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 110No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 111No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 112No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 113No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 114No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 115No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 116No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 117No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 118No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 119No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 120No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 121No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 122No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 123No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 124No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 125No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 126No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 127No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 128No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 129No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 130No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 131No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 132No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 133No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 134No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 135No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 136No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 137No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 138No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 139No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 140No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 141No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 142No of tumor, Red , White cell, Destroyed Cell : 2,65,24,9
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 5,72,23,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 5,72,23,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 5,72,23,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 5,72,23,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 10,67,23,0
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 10,67,23,0
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 10,67,23,0
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 9,67,23,1
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 16No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 17No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 18No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 19No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 20No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 21No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 22No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 23No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 24No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 25No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 26No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 27No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 28No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 29No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 30No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 31No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 32No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 33No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 34No of tumor, Red , White cell, Destroyed Cell : 8,67,23,2
+Cycle No. 35No of tumor, Red , White cell, Destroyed Cell : 7,67,23,3
+Cycle No. 36No of tumor, Red , White cell, Destroyed Cell : 7,67,23,3
+Cycle No. 37No of tumor, Red , White cell, Destroyed Cell : 7,67,23,3
+Cycle No. 38No of tumor, Red , White cell, Destroyed Cell : 7,67,23,3
+Cycle No. 39No of tumor, Red , White cell, Destroyed Cell : 7,67,23,3
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 5,63,32,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 4,63,32,1
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 4,63,32,1
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 4,63,32,1
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 9,58,32,1
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 9,58,32,1
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 9,58,32,1
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 9,58,32,1
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 9,58,32,1
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 26,41,32,1
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 26,41,32,1
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 26,41,32,1
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 26,41,32,1
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 25,41,32,2
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 66,0,32,2
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 5,63,32,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 5,63,32,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 5,63,32,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 5,63,32,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 14,54,32,0
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 14,54,32,0
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 14,54,32,0
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 14,54,32,0
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 14,54,32,0
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 37,31,32,0
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 37,31,32,0
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 37,31,32,0
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 37,31,32,0
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 37,31,32,0
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 90,0,10,0
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 7,60,33,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 7,60,33,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 7,60,33,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 7,60,33,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 21,46,33,0
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 21,46,33,0
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 21,46,33,0
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 21,46,33,0
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 21,46,33,0
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 52,14,33,1
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 52,14,33,1
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 51,14,33,2
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 50,14,33,3
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 50,14,33,3
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 96,0,0,4
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 5,71,24,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 4,71,24,1
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 4,71,24,1
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 4,71,24,1
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 10,65,24,1
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 10,65,24,1
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 10,65,24,1
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 10,65,24,1
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 10,65,24,1
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 26,49,24,1
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 26,49,24,1
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 26,49,24,1
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 26,49,24,1
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 26,49,24,1
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 71,4,24,1
+Cycle No. 16No of tumor, Red , White cell, Destroyed Cell : 71,4,24,1
+Cycle No. 17No of tumor, Red , White cell, Destroyed Cell : 71,4,24,1
+Cycle No. 18No of tumor, Red , White cell, Destroyed Cell : 71,4,24,1
+Cycle No. 19No of tumor, Red , White cell, Destroyed Cell : 70,4,24,2
+Cycle No. 20No of tumor, Red , White cell, Destroyed Cell : 97,0,0,3
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 5,71,24,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 5,71,24,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 5,71,24,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 5,71,24,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 15,61,24,0
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 15,61,24,0
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 15,61,24,0
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 15,61,24,0
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 15,61,24,0
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 45,31,24,0
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 45,31,24,0
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 45,31,24,0
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 44,31,24,1
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 43,31,24,2
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 97,0,0,3
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 5,65,30,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 5,65,30,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 5,65,30,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 5,65,30,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 13,57,30,0
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 13,57,30,0
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 13,57,30,0
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 13,57,30,0
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 13,57,30,0
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 36,34,30,0
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 36,34,30,0
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 36,34,30,0
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 36,34,30,0
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 36,34,30,0
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 100,0,0,0
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 8,69,23,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 8,69,23,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 8,69,23,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 8,69,23,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 21,56,23,0
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 21,56,23,0
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 21,56,23,0
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 21,56,23,0
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 21,56,23,0
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 47,29,23,1
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 47,29,23,1
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 47,29,23,1
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 47,29,23,1
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 46,29,23,2
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 97,0,0,3
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 4,66,30,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 4,66,30,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 4,66,30,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 4,66,30,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 11,59,30,0
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 11,59,30,0
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 11,59,30,0
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 11,59,30,0
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 11,59,30,0
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 32,38,30,0
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 32,38,30,0
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 32,38,30,0
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 32,38,30,0
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 32,38,30,0
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 83,0,17,0
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 8,66,26,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 8,66,26,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 8,66,26,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 8,66,26,0
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 5,68,27,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 5,68,27,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 5,68,27,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 5,68,27,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 14,59,27,0
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 14,59,27,0
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 14,59,27,0
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 14,59,27,0
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 14,59,27,0
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 34,39,27,0
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 34,39,27,0
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 34,39,27,0
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 34,39,27,0
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 34,39,27,0
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 89,0,11,0
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 3,69,28,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 3,69,28,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 3,69,28,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 3,69,28,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 11,61,28,0
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 11,61,28,0
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 11,61,28,0
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 11,61,28,0
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 11,61,28,0
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 31,41,28,0
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 31,41,28,0
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 31,41,28,0
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 30,41,28,1
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 29,41,28,2
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 69,1,28,2
+Cycle No. 16No of tumor, Red , White cell, Destroyed Cell : 69,1,28,2
+Cycle No. 17No of tumor, Red , White cell, Destroyed Cell : 69,1,28,2
+Cycle No. 18No of tumor, Red , White cell, Destroyed Cell : 68,1,28,3
+Cycle No. 19No of tumor, Red , White cell, Destroyed Cell : 67,1,28,4
+Cycle No. 20No of tumor, Red , White cell, Destroyed Cell : 96,0,0,4
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 5,66,29,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 4,66,29,1
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 4,66,29,1
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 4,66,29,1
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 9,60,29,2
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 9,60,29,2
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 9,60,29,2
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 8,60,29,3
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 8,60,29,3
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 20,47,29,4
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 20,47,29,4
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 20,47,29,4
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 20,47,29,4
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 20,47,29,4
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 46,20,29,5
+Cycle No. 16No of tumor, Red , White cell, Destroyed Cell : 46,20,29,5
+Cycle No. 17No of tumor, Red , White cell, Destroyed Cell : 46,20,29,5
+Cycle No. 18No of tumor, Red , White cell, Destroyed Cell : 45,20,29,6
+Cycle No. 19No of tumor, Red , White cell, Destroyed Cell : 44,20,29,7
+Cycle No. 20No of tumor, Red , White cell, Destroyed Cell : 93,0,0,7
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 4,74,22,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 4,74,22,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 4,74,22,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 4,74,22,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 14,64,22,0
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 14,64,22,0
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 14,64,22,0
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 14,64,22,0
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 14,64,22,0
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 36,42,22,0
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 36,42,22,0
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 36,42,22,0
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 36,42,22,0
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 36,42,22,0
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 94,0,6,0
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 3,69,28,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 3,69,28,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 3,69,28,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 2,69,28,1
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 5,66,28,1
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 5,66,28,1
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 5,66,28,1
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 5,66,28,1
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 5,66,28,1
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 12,58,28,2
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 12,58,28,2
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 12,58,28,2
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 12,58,28,2
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 12,58,28,2
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 38,32,28,2
+Cycle No. 16No of tumor, Red , White cell, Destroyed Cell : 38,32,28,2
+Cycle No. 17No of tumor, Red , White cell, Destroyed Cell : 37,32,28,3
+Cycle No. 18No of tumor, Red , White cell, Destroyed Cell : 36,32,28,4
+Cycle No. 19No of tumor, Red , White cell, Destroyed Cell : 35,32,28,5
+Cycle No. 20No of tumor, Red , White cell, Destroyed Cell : 92,0,4,4
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 6,73,21,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 6,73,21,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 6,73,21,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 6,73,21,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 14,64,21,1
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 14,64,21,1
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 14,64,21,1
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 14,64,21,1
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 14,64,21,1
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 46,32,21,1
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 46,32,21,1
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 46,32,21,1
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 46,32,21,1
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 45,32,21,2
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 97,0,0,3
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 5,72,23,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 5,72,23,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 5,72,23,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 5,72,23,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 11,66,23,0
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 11,66,23,0
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 10,66,23,1
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 10,66,23,1
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 10,66,23,1
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 31,45,23,1
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 31,45,23,1
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 31,45,23,1
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 30,45,23,2
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 30,45,23,2
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 75,0,23,2
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 9,66,25,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 9,66,25,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 8,66,25,1
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 8,66,25,1
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 22,52,25,1
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 22,52,25,1
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 22,52,25,1
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 21,52,25,2
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 21,52,25,2
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 56,16,25,3
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 56,16,25,3
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 56,16,25,3
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 56,16,25,3
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 55,16,25,4
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 95,0,0,5
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 0,79,21,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 0,79,21,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 0,79,21,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 0,79,21,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 0,79,21,0
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 0,79,21,0
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 0,79,21,0
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 0,79,21,0
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 0,79,21,0
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 0,79,21,0
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 0,79,21,0
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 0,79,21,0
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 0,79,21,0
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 0,79,21,0
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 6,70,24,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 6,70,24,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 6,70,24,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 5,70,24,1
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 10,65,24,1
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 10,65,24,1
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 10,65,24,1
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 10,65,24,1
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 10,65,24,1
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 33,42,24,1
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 33,42,24,1
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 32,42,24,2
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 32,42,24,2
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 32,42,24,2
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 90,0,8,2
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 7,66,27,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 6,66,27,1
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 6,66,27,1
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 6,66,27,1
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 16,56,27,1
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 16,56,27,1
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 16,56,27,1
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 16,56,27,1
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 16,56,27,1
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 40,32,27,1
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 40,32,27,1
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 39,32,27,2
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 39,32,27,2
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 39,32,27,2
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 97,0,0,3
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 7,65,28,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 7,65,28,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 7,65,28,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 7,65,28,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 19,53,28,0
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 19,53,28,0
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 19,53,28,0
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 18,53,28,1
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 18,53,28,1
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 43,27,28,2
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 43,27,28,2
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 43,27,28,2
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 43,27,28,2
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 42,27,28,3
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 97,0,0,3
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 8,69,23,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 8,69,23,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 8,69,23,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 8,69,23,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 22,54,23,1
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 22,54,23,1
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 22,54,23,1
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 22,54,23,1
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 22,54,23,1
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 62,14,23,1
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 62,14,23,1
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 62,14,23,1
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 62,14,23,1
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 61,14,23,2
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 97,0,0,3
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 7,68,25,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 7,68,25,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 7,68,25,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 7,68,25,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 18,57,25,0
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 18,57,25,0
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 18,57,25,0
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 17,57,25,1
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 16,57,25,2
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 38,34,25,3
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 38,34,25,3
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 37,34,25,4
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 36,34,25,5
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 36,34,25,5
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 95,0,0,5
+Cycle No. 1No of tumor, Red , White cell, Destroyed Cell : 3,67,30,0
+Cycle No. 2No of tumor, Red , White cell, Destroyed Cell : 3,67,30,0
+Cycle No. 3No of tumor, Red , White cell, Destroyed Cell : 3,67,30,0
+Cycle No. 4No of tumor, Red , White cell, Destroyed Cell : 3,67,30,0
+Cycle No. 5No of tumor, Red , White cell, Destroyed Cell : 8,62,30,0
+Cycle No. 6No of tumor, Red , White cell, Destroyed Cell : 8,62,30,0
+Cycle No. 7No of tumor, Red , White cell, Destroyed Cell : 8,62,30,0
+Cycle No. 8No of tumor, Red , White cell, Destroyed Cell : 8,62,30,0
+Cycle No. 9No of tumor, Red , White cell, Destroyed Cell : 8,62,30,0
+Cycle No. 10No of tumor, Red , White cell, Destroyed Cell : 23,47,30,0
+Cycle No. 11No of tumor, Red , White cell, Destroyed Cell : 23,47,30,0
+Cycle No. 12No of tumor, Red , White cell, Destroyed Cell : 23,47,30,0
+Cycle No. 13No of tumor, Red , White cell, Destroyed Cell : 23,47,30,0
+Cycle No. 14No of tumor, Red , White cell, Destroyed Cell : 23,47,30,0
+Cycle No. 15No of tumor, Red , White cell, Destroyed Cell : 66,4,30,0
+Cycle No. 16No of tumor, Red , White cell, Destroyed Cell : 66,4,30,0
+Cycle No. 17No of tumor, Red , White cell, Destroyed Cell : 65,4,30,1
+Cycle No. 18No of tumor, Red , White cell, Destroyed Cell : 64,4,30,2
+Cycle No. 19No of tumor, Red , White cell, Destroyed Cell : 64,4,30,2
+Cycle No. 20No of tumor, Red , White cell, Destroyed Cell : 98,0,0,2

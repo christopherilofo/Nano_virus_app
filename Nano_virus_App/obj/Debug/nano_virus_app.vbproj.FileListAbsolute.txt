@@ -1,0 +1,9 @@
+C:\Users\ILOFO-PC\Documents\Visual Studio 2012\Projects\Nano_virus_App\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\ILOFO-PC\Documents\Visual Studio 2012\Projects\Nano_virus_App\bin\Debug\ConsoleApplication2.exe
+C:\Users\ILOFO-PC\Documents\Visual Studio 2012\Projects\Nano_virus_App\bin\Debug\ConsoleApplication2.pdb
+C:\Users\ILOFO-PC\Documents\Visual Studio 2012\Projects\Nano_virus_App\bin\Debug\ConsoleApplication2.xml
+C:\Users\ILOFO-PC\Documents\Visual Studio 2012\Projects\Nano_virus_App\obj\Debug\ConsoleApplication2.Resources.resources
+C:\Users\ILOFO-PC\Documents\Visual Studio 2012\Projects\Nano_virus_App\obj\Debug\nano_virus_app.vbproj.GenerateResource.Cache
+C:\Users\ILOFO-PC\Documents\Visual Studio 2012\Projects\Nano_virus_App\obj\Debug\ConsoleApplication2.exe
+C:\Users\ILOFO-PC\Documents\Visual Studio 2012\Projects\Nano_virus_App\obj\Debug\ConsoleApplication2.xml
+C:\Users\ILOFO-PC\Documents\Visual Studio 2012\Projects\Nano_virus_App\obj\Debug\ConsoleApplication2.pdb
